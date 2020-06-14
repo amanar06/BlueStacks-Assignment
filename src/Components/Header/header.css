@@ -1,0 +1,27 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+    padding: 1% 12%;
+}
+
+.dropdown{
+    display: flex;
+    align-items: center;
+}
+
+.ant-dropdown-menu{
+    background-color: black;
+}
+
+.text-color-white{
+    color: white !important;
+}
+
+.text-color-white:hover{
+    color: black !important;
+}
+
+.dropdown-button-style{
+    background: transparent;
+    border: 1px solid white;
+}
